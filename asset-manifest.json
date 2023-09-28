@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mukesh8581/Randomgif.git/static/css/main.aa86c614.css",
+    "main.js": "/Mukesh8581/Randomgif.git/static/js/main.9352e092.js",
+    "index.html": "/Mukesh8581/Randomgif.git/index.html",
+    "main.aa86c614.css.map": "/Mukesh8581/Randomgif.git/static/css/main.aa86c614.css.map",
+    "main.9352e092.js.map": "/Mukesh8581/Randomgif.git/static/js/main.9352e092.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa86c614.css",
+    "static/js/main.9352e092.js"
+  ]
+}
